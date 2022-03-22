@@ -1,0 +1,10 @@
+C:\Users\PC\source\repos\IgraVesalaS\IgraVesalaS\bin\Debug\IgraVesalaS.exe.config
+C:\Users\PC\source\repos\IgraVesalaS\IgraVesalaS\bin\Debug\IgraVesalaS.exe
+C:\Users\PC\source\repos\IgraVesalaS\IgraVesalaS\bin\Debug\IgraVesalaS.pdb
+C:\Users\PC\source\repos\IgraVesalaS\IgraVesalaS\obj\Debug\IgraVesalaS.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\IgraVesalaS\IgraVesalaS\obj\Debug\IgraVesalaS.Form1.resources
+C:\Users\PC\source\repos\IgraVesalaS\IgraVesalaS\obj\Debug\IgraVesalaS.Properties.Resources.resources
+C:\Users\PC\source\repos\IgraVesalaS\IgraVesalaS\obj\Debug\IgraVesalaS.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\IgraVesalaS\IgraVesalaS\obj\Debug\IgraVesalaS.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\IgraVesalaS\IgraVesalaS\obj\Debug\IgraVesalaS.exe
+C:\Users\PC\source\repos\IgraVesalaS\IgraVesalaS\obj\Debug\IgraVesalaS.pdb
